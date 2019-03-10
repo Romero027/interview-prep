@@ -1,6 +1,6 @@
 ## Company List:
 
-- [Facebook](#c)
-- [Dropbox](#cc)
+- [Facebook](./Facebook)
+- [Dropbox](./Dropbox)
 
 Mostly from Leetcode
